@@ -11,5 +11,3 @@ function converter(number, system){
     result[system] = num.join('');
     return result;
 }
-
-//test
